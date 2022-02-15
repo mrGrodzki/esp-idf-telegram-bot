@@ -11,3 +11,5 @@ sdkconfig
 .cproject
 .project
 .settings
+main/main.c
+main/main.c
